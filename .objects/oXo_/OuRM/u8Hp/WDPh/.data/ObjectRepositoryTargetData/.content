@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ioo396b8TEWF66vwi7-FUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="70862f09-2212-4f1d-b96c-af582c0194e9" DesignTimeRectangle="1215, 285, 39, 12" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl class='motta-button__text--preferences' parentid='site-header' tag='SPAN' innertext='English' visibleinnertext='English' /&gt;" Guid="8cdd5bb3-fc27-4ae4-8fcf-d57be0343c84" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Shop online from Leaders Center | The largest electronics store in Jordan' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="57b72ca4de455fa202478e4969b8287f.png" xmlns="">0q8oJTq5m_U-w-D7U8GM-mQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

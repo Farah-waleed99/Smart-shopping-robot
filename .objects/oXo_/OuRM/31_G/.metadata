@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Search 38 results found for Phone – BMS ",
+  "Type": "Screen",
+  "Id": "31_G4Iluw0-i3HB3mo0b8Q",
+  "Reference": "4zK25aL8_EiN_TarCj3GYQ/31_G4Iluw0-i3HB3mo0b8Q",
+  "ParentRef": "4zK25aL8_EiN_TarCj3GYQ/OuRMjNz9s0GFWqUHYn-bNg",
+  "Created": "2024-11-09T12:05:01.0820058Z",
+  "Updated": "2024-11-09T12:05:01.0820058Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

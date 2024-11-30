@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="AcMt40qFBU-litLeZ2-9vw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="jormall.net" CVScreenId="26af3ea5-366d-48f3-8457-7223832f04f2" DesignTimeRectangle="222, 191, 593, 44" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl parentid='shopify-section-header' tag='DIV' parentclass='search-bar__top' /&gt;&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="1677a447-b71a-4773-be3f-f32404845194" ScopeSelectorArgument="&lt;html app='msedge.exe' title='JorMall&amp;apos;s online store' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f1f7760834aea7d680747fbb56270623.png" xmlns="">0CjFRCbQD50O17reufdTgdQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eMTPFn_Nh0Cm1wls8tDE8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="3823184a-6578-48c1-89de-cc63f6f31ef1" DesignTimeRectangle="428, 189, 518, 60" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='dgwt-wcas-search-input-1' tag='INPUT' placeholder='Find something you’ll love!' type='search' /&gt;" Guid="60e3d4e4-01d5-4f02-8c0d-716f02a87bd7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Shop online from Leaders Center | The largest electronics store in Jordan' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="37edb10e4b823279b2515b9a586d931d.png" xmlns="">0BW491FKGmEOjxvhSoPo9og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

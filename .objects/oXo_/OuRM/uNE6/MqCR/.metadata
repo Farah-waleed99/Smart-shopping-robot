@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Search",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "MqCRJHX2CkSN9IntKnzRuw",
+  "Reference": "4zK25aL8_EiN_TarCj3GYQ/MqCRJHX2CkSN9IntKnzRuw",
+  "ParentRef": "4zK25aL8_EiN_TarCj3GYQ/uNE6kuIqyUWp-PlS6bbhrw",
+  "Created": "2024-11-09T08:13:10.2725691Z",
+  "Updated": "2024-11-09T08:13:10.2725691Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

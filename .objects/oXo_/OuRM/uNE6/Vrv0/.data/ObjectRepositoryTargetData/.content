@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XhDS1Hoz_0OfZIQRySzVEA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="a0ad4ddb-f5a6-4365-9780-0c073c90b428" DesignTimeRectangle="585, 492, 167, 25" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl parentid='main' tag='FORM' visibleinnertext='Relevance*' /&gt;&lt;webctrl tag='SELECT' visibleinnertext='Relevance*' /&gt;" Guid="cd9d546e-8435-455c-8995-25bab24fc0dd" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for TV - ليدرز سنتر' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="aefcc658cb9a30b7eb7da55d1229afa3.png" xmlns="">0F37spg9EOEiePnqBdki8HA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

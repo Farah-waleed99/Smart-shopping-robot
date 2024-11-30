@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Phone - JorMall",
+  "Type": "Screen",
+  "Id": "0U6-kv1gekSxQvkwQj-RnQ",
+  "Reference": "4zK25aL8_EiN_TarCj3GYQ/0U6-kv1gekSxQvkwQj-RnQ",
+  "ParentRef": "4zK25aL8_EiN_TarCj3GYQ/OuRMjNz9s0GFWqUHYn-bNg",
+  "Created": "2024-11-11T02:22:53.4641872Z",
+  "Updated": "2024-11-11T02:22:53.4641872Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

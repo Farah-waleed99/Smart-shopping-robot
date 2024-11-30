@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-5UOjYP9ykC61bw1yCvIhA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="3987499e-32f9-4399-8976-cb9a7d20effd" CvElementArea="716, 593, 21, 20" CvTextArea="600, 596, 64, 14" CvTextArgument="Relevance" CvType="ArrowButton" DesignTimeRectangle="599, 593, 138, 21" DesignTimeScaleFactor="1" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl tag='SELECT' type='' class='orderby' aaname='' /&gt;" Guid="8272322e-2df6-4023-b139-c527712e8d5c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for TV - ليدرز سنتر' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3987499e-32f9-4399-8976-cb9a7d20effd" DesignTimeRectangle="585, 592, 167, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='main' tag='FORM' visibleinnertext='Relevance*' /&gt;&lt;webctrl tag='SELECT' visibleinnertext='Relevance*' /&gt;" Guid="ce12a742-5304-41bd-831b-a2afab3611b0" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e5b25bfd88f4e1ea08a19e5c0eacd3c8.png" xmlns="">04maLItiaCkm1Uim-dK7q-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

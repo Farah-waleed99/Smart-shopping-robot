@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Shop online from Leaders Center  The largest electronics store in Jordan",
+  "Type": "App",
+  "Id": "oXo_BhoUEUqpPM8ytS35eQ",
+  "Reference": "4zK25aL8_EiN_TarCj3GYQ/oXo_BhoUEUqpPM8ytS35eQ",
+  "Created": "2024-11-09T07:49:02.6874299Z",
+  "Updated": "2024-11-09T07:49:02.6874299Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

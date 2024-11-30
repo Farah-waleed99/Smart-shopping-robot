@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uhs4Z_9tBka15gBjwzazjQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="leaders.jo/en" CVScreenId="9f262459-b026-4897-a325-3e69d830fd3c" DesignTimeRectangle="584, 492, 168, 25" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl tag='SELECT' visibleinnertext='Relevance*' /&gt;" Guid="51469894-288d-4e62-9f08-3971704422c9" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='You searched for* - ليدرز سنتر' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2aa044c9951e1d7c247f8f1a19f3976f.png" xmlns="">07AuekU7Pak6grvruNEFBMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

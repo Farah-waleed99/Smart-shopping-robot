@@ -1,0 +1,14 @@
+﻿{
+  "Name": "EN(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "93FROO_1b0a-Fw3WNZ2wZw",
+  "Reference": "4zK25aL8_EiN_TarCj3GYQ/93FROO_1b0a-Fw3WNZ2wZw",
+  "ParentRef": "4zK25aL8_EiN_TarCj3GYQ/-IO4RXLDsEq7YUyyIe5YJw",
+  "Created": "2024-11-09T14:09:41.668334Z",
+  "Updated": "2024-11-09T14:09:41.668334Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

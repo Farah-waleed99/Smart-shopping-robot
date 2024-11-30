@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XZ1zwjT7OEGUQyFo69nyjg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="jormall.net" CVScreenId="e0114102-2822-4c91-a1b8-0a63ce70af5c" DesignTimeRectangle="905, 208, 78, 30" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='localization_form_header_locale' tag='BUTTON' visibleinnertext='English ' /&gt;" Guid="b334d821-5d81-4434-bccd-cdf5618df50e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='JorMall&amp;apos;s online store' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e0114102-2822-4c91-a1b8-0a63ce70af5c" CvTextArea="904, 215, 59, 17" CvTextArgument="English" CvType="Text" DesignTimeRectangle="905, 213, 58, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='locale-selector__value' parentid='localization_form_header_locale' tag='SPAN' type='' aaname='English' check:innerText='English' /&gt;" Guid="8d0fbab6-8e9f-4cce-b3ac-384e79ade632" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="63698987a37df79f3db0ae7792bf65f4.png" xmlns="">04c7GkUKdJkWbGXOTpFABew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
